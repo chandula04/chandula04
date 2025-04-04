@@ -5,11 +5,9 @@
 - 📫 How to reach me CHANDULA WIJESEKARA
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: CMW
-# Beautiful GitHub Profile README
 
-This README is designed to help you create a visually appealing and informative profile on GitHub. Feel free to use and adapt the sections below to showcase your skills, projects, and personality.
 
-## 👋 Hi there, I'm [Your Name]!
+## 👋 Hi there, I'm [Chandula]!
 
 [![Your Name](https://img.shields.io/badge/Author-%5BYour%20Name%5D-blueviolet)](https://github.com/[YourUsername])
 [![Followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[YourUsername]?tab=followers)
@@ -19,12 +17,12 @@ A brief introduction about yourself. For example:
 
 > Passionate developer with a focus on [Your Focus Area]. I enjoy building [Types of Projects] and contributing to open-source. Let's connect!
 
-## 🚀 What I'm Working On
+<!---## 🚀 What I'm Working On
 
 -   **[Project 1 Name]:** [Short description of the project]. [Link to project](https://github.com/[YourUsername]/[Project1])
 -   **[Project 2 Name]:** [Short description of the project]. [Link to project](https://github.com/[YourUsername]/[Project2])
 -   ...
-
+--->
 ## 🛠️ Tech Stack
 
 Here's a list of technologies and tools I'm proficient in:
