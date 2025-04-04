@@ -13,7 +13,7 @@
 [![Followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[chandula04]?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/[YourTwitterHandle]?style=social)](https://twitter.com/[YourTwitterHandle])
 
-A brief introduction about yourself. For example:
+<!----A brief introduction about yourself. For example:
 
 > Passionate developer with a focus on [Your Focus Area]. I enjoy building [Types of Projects] and contributing to open-source. Let's connect!
 
