@@ -9,8 +9,8 @@
 
 ## 👋 Hi there, I'm [Chandula]!
 
-[![Your Name](https://img.shields.io/badge/Author-%5BYour%20Name%5D-blueviolet)](https://github.com/[YourUsername])
-[![Followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[YourUsername]?tab=followers)
+[![Your Name](https://img.shields.io/badge/Author-%5BYour%20Name%5D-blueviolet)](https://github.com/[chandula04])
+[![Followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[chandula04]?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/[YourTwitterHandle]?style=social)](https://twitter.com/[YourTwitterHandle])
 
 A brief introduction about yourself. For example:
