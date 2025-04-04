@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandula04
+- 👋 Hi, I’m Chandula
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on REACT
