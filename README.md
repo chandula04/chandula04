@@ -34,7 +34,8 @@ Here's a list of technologies and tools I'm proficient in:
 -   **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`, etc.
 -   **Tools:** `Git`, `Docker`, `Kubernetes`, `AWS`, `VS Code`, etc.
 
-```html
+html
+
 <p align="left">
   <a href="[https://skillicons.dev](https://skillicons.dev)">
     <img src="[https://skillicons.dev/icons?i=python,js,react,nodejs,git,docker,aws,vscode](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,react,nodejs,git,docker,aws,vscode)" />
