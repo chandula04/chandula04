@@ -37,6 +37,14 @@ Here's a list of technologies and tools I'm proficient in:
     <img src="[https://skillicons.dev/icons?i=python,js,react,nodejs,git,docker,aws,vscode](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,react,nodejs,git,docker,aws,vscode)" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+</p>
 <!---
 chandula04/chandula04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
