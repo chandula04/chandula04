@@ -1,186 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Glass UI Profile</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-      font-family: 'Arial', sans-serif;
-      overflow-x: hidden;
-    }
+- 👋 Hi, I’m Chandula
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on REACT
+- 📫 How to reach me CHANDULA WIJESEKARA
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: CMW
 
-    .glass-container {
-      background: rgba(255, 255, 255, 0.15);
-      backdrop-filter: blur(10px);
-      border-radius: 15px;
-      padding: 40px;
-      margin: 20px auto;
-      max-width: 600px;
-      box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
-      border: 1px solid rgba(255, 255, 255, 0.18);
-      text-align: center;
-      position: relative;
-      z-index: 1;
-    }
 
-    h1 {
-      color: #333;
-      font-size: 2.5em;
-      margin-bottom: 10px;
-      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
+## 👋 Hi there, I'm [Chandula]!
 
-    p {
-      color: #555;
-      font-size: 1.2em;
-      margin-bottom: 20px;
-    }
+[![Your Name](https://img.shields.io/badge/Author-%5BYour%20Name%5D-blueviolet)](https://github.com/[chandula04])
+[![Followers](https://img.shields.io/github/followers/[YourUsername]?style=social)](https://github.com/[chandula04]?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/[YourTwitterHandle]?style=social)](https://twitter.com/[YourTwitterHandle])
 
-    .skills {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      flex-wrap: wrap;
-      margin: 20px 0;
-    }
+<!----A brief introduction about yourself. For example:
 
-    .skill {
-      background: rgba(255, 255, 255, 0.2);
-      padding: 10px 20px;
-      border-radius: 20px;
-      color: #333;
-      font-weight: bold;
-      transition: transform 0.3s ease, background 0.3s ease;
-      animation: float 3s ease-in-out infinite;
-    }
+> Passionate developer with a focus on [Your Focus Area]. I enjoy building [Types of Projects] and contributing to open-source. Let's connect!
 
-    .skill:nth-child(2) { animation-delay: 0.5s; }
-    .skill:nth-child(3) { animation-delay: 1s; }
-    .skill:nth-child(4) { animation-delay: 1.5s; }
-    .skill:nth-child(5) { animation-delay: 2s; }
+<!---## 🚀 What I'm Working On
 
-    .skill:hover {
-      transform: scale(1.1);
-      background: rgba(255, 255, 255, 0.3);
-    }
+-   **[Project 1 Name]:** [Short description of the project]. [Link to project](https://github.com/[YourUsername]/[Project1])
+-   **[Project 2 Name]:** [Short description of the project]. [Link to project](https://github.com/[YourUsername]/[Project2])
+-   ...
+--->
+## 🛠️ Tech Stack
 
-    @keyframes float {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); }
-    }
+Here's a list of technologies and tools I'm proficient in:
 
-    .social-links a {
-      color: #007bff;
-      text-decoration: none;
-      margin: 0 10px;
-      font-size: 1.1em;
-      transition: color 0.3s ease;
-    }
+-   **Languages:** `Python`, `JavaScript`, `TypeScript`, `Java`, `C++`, etc.
+-   **Frameworks:** `React`, `Vue.js`, `Angular`, `Node.js`, `Django`, `Flask`, etc.
+-   **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`, etc.
+-   **Tools:** `Git`, `Docker`, `Kubernetes`, `AWS`, `VS Code`, etc.
 
-    .social-links a:hover {
-      color: #ff6f91;
-    }
+<p align="left">
+  <a href="[https://skillicons.dev](https://skillicons.dev)">
+    <img src="[https://skillicons.dev/icons?i=python,js,react,nodejs,git,docker,aws,vscode](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,react,nodejs,git,docker,aws,vscode)" />
+  </a>
+</p>
 
-    #blossomCanvas {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: 0;
-      pointer-events: none;
-    }
-  </style>
-</head>
-<body>
-  <div class="glass-container">
-    <h1>🌸 Welcome to My Profile 🌸</h1>
-    <p>A passionate developer crafting elegant solutions with code.</p>
-    
-    <div class="skills">
-      <span class="skill">Python</span>
-      <span class="skill">JavaScript</span>
-      <span class="skill">TypeScript</span>
-      <span class="skill">React</span>
-      <span class="skill">Node.js</span>
-    </div>
-    
-    <div class="social-links">
-      <a href="https://twitter.com/yourusername" target="_blank">Twitter</a> |
-      <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> |
-      <a href="https://yourwebsite.com" target="_blank">Portfolio</a>
-    </div>
-  </div>
-
-  <canvas id="blossomCanvas"></canvas>
-
-  <script>
-    const canvas = document.getElementById('blossomCanvas');
-    const ctx = canvas.getContext('2d');
-
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
-
-    const petals = [];
-    const petalCount = 50;
-
-    class Petal {
-      constructor() {
-        this.x = Math.random() * canvas.width;
-        this.y = Math.random() * canvas.height * 0.5;
-        this.size = Math.random() * 10 + 5;
-        this.speedX = Math.random() * 2 - 1;
-        this.speedY = Math.random() * 2 + 1;
-        this.angle = Math.random() * 360;
-      }
-
-      update() {
-        this.x += this.speedX;
-        this.y += this.speedY;
-        this.angle += 0.1;
-        if (this.y > canvas.height || this.x < 0 || this.x > canvas.width) {
-          this.x = Math.random() * canvas.width;
-          this.y = -10;
-          this.speedX = Math.random() * 2 - 1;
-          this.speedY = Math.random() * 2 + 1;
-        }
-      }
-
-      draw() {
-        ctx.save();
-        ctx.translate(this.x, this.y);
-        ctx.rotate(this.angle * Math.PI / 180);
-        ctx.fillStyle = 'rgba(255, 182, 193, 0.8)';
-        ctx.beginPath();
-        ctx.ellipse(0, 0, this.size, this.size / 2, 0, 0, Math.PI * 2);
-        ctx.fill();
-        ctx.restore();
-      }
-    }
-
-    for (let i = 0; i < petalCount; i++) {
-      petals.push(new Petal());
-    }
-
-    function animate() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      petals.forEach(petal => {
-        petal.update();
-        petal.draw();
-      });
-      requestAnimationFrame(animate);
-    }
-
-    animate();
-
-    window.addEventListener('resize', () => {
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
-    });
-  </script>
-</body>
-</html>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+</p>
+<!---
+chandula04/chandula04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
