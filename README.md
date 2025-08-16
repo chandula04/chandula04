@@ -13,7 +13,7 @@ I'm Chandula Wijesekara, a budding developer from [Your Location] diving into th
 ⚡ Fun Fact: CMW – Coding Makes Wonders! Every line of code is a step towards magic. <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true" width="40" alt="Productive">
           <h1>🌟 Passionate Coder in the Making 🌟</h1>
           <p>I'm Chandula Wijesekara, a budding developer diving into the world of web technologies. With a keen interest in coding, I'm currently mastering HTML and eager to collaborate on React projects. Let's build something amazing together!</p>
-          <p>📫 Reach me at: chandula.wijesekara@example.com (update with your email) | 😄 Pronouns: He/Him | ⚡ Fun Fact: Coding Makes Wonders (CMW)!</p>
+          <p>📫 Reach me at: chandulawijesekara4@gmail.com| 😄 Pronouns: He | ⚡ Fun Fact: Coding Makes Wonders (CMW)!</p>
           <div class="skills">
             <span class="skill">HTML</span>
             <span class="skill">CSS</span>
