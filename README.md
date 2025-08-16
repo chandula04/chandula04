@@ -1,157 +1,16 @@
 Hi there, I'm Chandula! <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" alt="Waving Hand">
 
-  
-    <foreignObject width="800" height="800">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="width: 800px; height: 800px; position: relative; overflow: hidden; font-family: &#x27;Segoe UI&#x27;, Tahoma, Geneva, Verdana, sans-serif;">
-        &#x3C;style>
-          body { margin: 0; padding: 0; }
-<p>.aurora-background {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-background: linear-gradient(-45deg, #4facfe, #00f2fe, #ff9a9e, #fecfef);
-background-size: 600% 600%;
-animation: aurora 20s ease infinite;
-z-index: -1;
-opacity: 0.9;
-}</p>
-<p>@keyframes aurora {
-0% { background-position: 0% 50%; }
-50% { background-position: 100% 50%; }
-100% { background-position: 0% 50%; }
-}</p>
-<p>.glass-container {
-position: absolute;
-top: 5%;
-left: 50%;
-transform: translateX(-50%);
-background: rgba(255, 255, 255, 0.2);
-backdrop-filter: blur(15px);
-border-radius: 25px;
-padding: 30px;
-max-width: 650px;
-box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
-border: 1px solid rgba(255, 255, 255, 0.25);
-text-align: center;
-color: #fff;
-z-index: 1;
-animation: fadeIn 2s ease-out;
-}</p>
-<p>@keyframes fadeIn {
-from { opacity: 0; transform: translate(-50%, -20px); }
-to { opacity: 1; transform: translate(-50%, 0); }
-}</p>
-<p>h1 {
-font-size: 2.8em;
-margin-bottom: 15px;
-text-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
-animation: neonGlow 1.5s ease-in-out infinite alternate;
-}</p>
-<p>@keyframes neonGlow {
-from { text-shadow: 0 0 5px #fff, 0 0 10px #00f2fe; }
-to { text-shadow: 0 0 10px #fff, 0 0 20px #ff9a9e; }
-}</p>
-<p>p {
-font-size: 1.1em;
-margin-bottom: 15px;
-line-height: 1.5;
-}</p>
-<p>.skills {
-display: flex;
-justify-content: center;
-gap: 15px;
-flex-wrap: wrap;
-margin: 25px 0;
-}</p>
-<p>.skill {
-background: rgba(255, 255, 255, 0.25);
-padding: 12px 22px;
-border-radius: 25px;
-font-weight: 600;
-transition: transform 0.4s ease, box-shadow 0.4s ease;
-animation: bounce 3s ease-in-out infinite;
-}</p>
-<p>.skill:hover {
-transform: scale(1.12);
-box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
-}</p>
-<p>.skill:nth-child(odd) { animation-delay: 0.6s; }
-.skill:nth-child(even) { animation-delay: 1.2s; }</p>
-<p>@keyframes bounce {
-0%, 100% { transform: translateY(0); }
-50% { transform: translateY(-8px); }
-}</p>
-<p>.social-links a {
-color: #fff;
-text-decoration: none;
-margin: 0 12px;
-font-size: 1.1em;
-transition: color 0.3s ease, transform 0.3s ease;
-}</p>
-<p>.social-links a:hover {
-color: #00f2fe;
-transform: scale(1.1);
-}</p>
-<p>.particles {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-overflow: hidden;
-z-index: 0;
-}</p>
-<p>.particle {
-position: absolute;
-background: rgba(255, 255, 255, 0.7);
-width: 6px;
-height: 12px;
-border-radius: 50%;
-animation: drift 15s linear infinite;
-opacity: 0.5;
-}</p>
-<p>@keyframes drift {
-0% { transform: translateY(-30px) rotate(0deg); opacity: 0; }
-10% { opacity: 0.8; }
-100% { transform: translateY(820px) rotate(720deg); opacity: 0; }
-}</p>
-<p>.particle:nth-child(1) { left: 8%; animation-duration: 18s; animation-delay: 0s; width: 8px; height: 16px; }
-.particle:nth-child(2) { left: 18%; animation-duration: 14s; animation-delay: 2s; }
-.particle:nth-child(3) { left: 28%; animation-duration: 20s; animation-delay: 4s; width: 5px; height: 10px; }
-.particle:nth-child(4) { left: 38%; animation-duration: 16s; animation-delay: 1s; }
-.particle:nth-child(5) { left: 48%; animation-duration: 13s; animation-delay: 3s; width: 7px; height: 14px; }
-.particle:nth-child(6) { left: 58%; animation-duration: 19s; animation-delay: 5s; }
-.particle:nth-child(7) { left: 68%; animation-duration: 17s; animation-delay: 0.5s; }
-.particle:nth-child(8) { left: 78%; animation-duration: 12s; animation-delay: 2.5s; width: 9px; height: 18px; }
-.particle:nth-child(9) { left: 88%; animation-duration: 21s; animation-delay: 4.5s; }
-.particle:nth-child(10) { left: 98%; animation-duration: 15s; animation-delay: 1.5s; }
-.particle:nth-child(11) { left: 12%; animation-duration: 22s; animation-delay: 6s; width: 4px; height: 8px; }
-.particle:nth-child(12) { left: 22%; animation-duration: 11s; animation-delay: 3.5s; }
-.particle:nth-child(13) { left: 32%; animation-duration: 23s; animation-delay: 5.5s; }
-.particle:nth-child(14) { left: 42%; animation-duration: 10s; animation-delay: 0.8s; width: 6px; height: 12px; }
-.particle:nth-child(15) { left: 52%; animation-duration: 24s; animation-delay: 4.8s; }
-&#x3C;/style></p>
-        <div class="aurora-background"></div>
-        <div class="particles">
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-          <div class="particle"></div>
-        </div>
-        <div class="glass-container">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&#x26;size=32&#x26;pause=1000&#x26;color=00F2FE&#x26;center=true&#x26;vCenter=true&#x26;width=600&#x26;lines=Passionate+About+Coding;Currently+Learning+HTML;Eager+to+Collaborate+on+React;Coding+Makes+Wonders+(CMW)!" alt="Typing SVG">
+
+🌟 About Me <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="40" alt="Working">
+I'm Chandula Wijesekara, a budding developer from [Your Location] diving into the exciting world of web technologies. With a keen interest in coding, I'm building my skills step by step and looking forward to creating impactful projects. Let's connect and build something awesome! <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coding-cat-gif?raw=true" width="40" alt="Coding Cat">
+
+👀 Interests: Coding, Web Development, Innovative Tech Solutions <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" alt="Tech Spin">
+🌱 Currently Learning: HTML, with plans to master CSS and JavaScript next <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif?raw=true" width="40" alt="Typing">
+💞️ Looking to Collaborate On: React projects – open to beginner-friendly contributions! <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" alt="Pulsing Code">
+📫 How to Reach Me: CHANDULA WIJESEKARA – Email me or connect on socials below <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif?raw=true" width="40" alt="Multi Screen">
+😄 Pronouns: He/Him <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif?raw=true" width="40" alt="Chill">
+⚡ Fun Fact: CMW – Coding Makes Wonders! Every line of code is a step towards magic. <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true" width="40" alt="Productive">
           <h1>🌟 Passionate Coder in the Making 🌟</h1>
           <p>I'm Chandula Wijesekara, a budding developer diving into the world of web technologies. With a keen interest in coding, I'm currently mastering HTML and eager to collaborate on React projects. Let's build something amazing together!</p>
           <p>📫 Reach me at: chandula.wijesekara@example.com (update with your email) | 😄 Pronouns: He/Him | ⚡ Fun Fact: Coding Makes Wonders (CMW)!</p>
