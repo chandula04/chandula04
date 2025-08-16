@@ -29,17 +29,6 @@ I'm Chandula Wijesekara, a budding developer from [Your Location] diving into th
         </div>
       </div>
     </foreignObject>
-  
-
-🚀 About Me <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="40" alt="Working">
-
-👋 Hi, I’m Chandula – an enthusiastic learner turning ideas into code! <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coding-cat-gif?raw=true" width="40" alt="Coding Cat">
-👀 I’m interested in Coding and exploring web development. <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" alt="Tech Spin">
-🌱 I’m currently learning HTML and building foundational skills. <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif?raw=true" width="40" alt="Typing">
-💞️ I’m looking to collaborate on React projects – let's team up! <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" alt="Pulsing Code">
-📫 How to reach me: CHANDULA WIJESEKARA (add your contact details). <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif?raw=true" width="40" alt="Multi Screen">
-😄 Pronouns: HE/HIM <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif?raw=true" width="40" alt="Chill">
-⚡ Fun fact: CMW – Coding Makes Wonders! <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true" width="40" alt="Productive">
 
 🛠️ Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="40" alt="Floating Tech">
 Here's what I'm working with and excited about:
