@@ -2,25 +2,23 @@ Hi there, I'm Chandula! <img src="https://user-images.githubusercontent.com/7403
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&#x26;size=32&#x26;pause=1000&#x26;color=00F2FE&#x26;center=true&#x26;vCenter=true&#x26;width=600&#x26;lines=Passionate+About+Coding;Currently+Learning+HTML;Eager+to+Collaborate+on+React;Coding+Makes+Wonders+(CMW)!" alt="Typing SVG">
 
-          <h1>🌟 Passionate Coder in the Making 🌟</h1>
-          <p>I'm Chandula Wijesekara, a budding developer diving into the world of web technologies. With a keen interest in coding, I'm currently mastering HTML and eager to collaborate on React projects. Let's build something amazing together!</p>
-          <p>📫 Reach me at: chandulawijesekara4@gmail.com| 😄 Pronouns: He | ⚡ Fun Fact: Coding Makes Wonders (CMW)!</p>
-          <div class="skills">
-            <span class="skill">HTML</span>
-            <span class="skill">CSS</span>
-            <span class="skill">JavaScript</span>
-            <span class="skill">React</span>
-          </div>
-          <div class="social-links">
-            <a href="https://github.com/chandula04" target="_blank">GitHub</a> |
-            <a href="https://twitter.com/YourTwitterHandle" target="_blank">Twitter</a> |
-            <a href="https://linkedin.com/in/chandula-wijesekara" target="_blank">LinkedIn</a> |
-            <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
-          </div>
-        </div>
-      </div>
-    </foreignObject>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Passionate+About+Coding;Curious+for+New+Tech;Open+Source+Enthusiast" alt="Typing SVG">
 
+<h1>🌟 Passionate Coder in the Making 🌟</h1>
+<p>I'm Chandula Wijesekara, a budding developer diving into the world of web technologies. With a keen interest in coding, I'm currently mastering HTML and eager to collaborate on React projects!</p>
+<p>📫 Reach me at: chandulawijesekara4@gmail.com | 😄 Pronouns: He | ⚡ Fun Fact: Coding Makes Wonders (CMW)!</p>
+<div class="skills">
+  <span class="skill">HTML</span>
+  <span class="skill">CSS</span>
+  <span class="skill">JavaScript</span>
+  <span class="skill">React</span>
+</div>
+<div class="social-links">
+  <a href="https://github.com/chandula04" target="_blank">GitHub</a> |
+  <a href="https://twitter.com/YourTwitterHandle" target="_blank">Twitter</a> |
+  <a href="https://linkedin.com/in/chandula-wijesekara" target="_blank">LinkedIn</a> |
+  <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+</div>
 🛠️ Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="40" alt="Floating Tech">
 Here's what I'm working with and excited about:
 
