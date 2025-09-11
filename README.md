@@ -2,15 +2,6 @@ Hi there, I'm Chandula! <img src="https://user-images.githubusercontent.com/7403
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&#x26;size=32&#x26;pause=1000&#x26;color=00F2FE&#x26;center=true&#x26;vCenter=true&#x26;width=600&#x26;lines=Passionate+About+Coding;Currently+Learning+HTML;Eager+to+Collaborate+on+React;Coding+Makes+Wonders+(CMW)!" alt="Typing SVG">
 
-🌟 About Me <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="40" alt="Working">
-I'm Chandula Wijesekara, a budding developer from [Your Location] diving into the exciting world of web technologies. With a keen interest in coding, I'm building my skills step by step and looking forward to creating impactful projects. Let's connect and build something awesome! <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/coding-cat-gif?raw=true" width="40" alt="Coding Cat">
-
-👀 Interests: Coding, Web Development, Innovative Tech Solutions <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" alt="Tech Spin">
-🌱 Currently Learning: HTML, with plans to master CSS and JavaScript next <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/typing.gif?raw=true" width="40" alt="Typing">
-💞️ Looking to Collaborate On: React projects – open to beginner-friendly contributions! <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" alt="Pulsing Code">
-📫 How to Reach Me: CHANDULA WIJESEKARA – Email me or connect on socials below <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif?raw=true" width="40" alt="Multi Screen">
-😄 Pronouns: He/Him <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif?raw=true" width="40" alt="Chill">
-⚡ Fun Fact: CMW – Coding Makes Wonders! Every line of code is a step towards magic. <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true" width="40" alt="Productive">
           <h1>🌟 Passionate Coder in the Making 🌟</h1>
           <p>I'm Chandula Wijesekara, a budding developer diving into the world of web technologies. With a keen interest in coding, I'm currently mastering HTML and eager to collaborate on React projects. Let's build something amazing together!</p>
           <p>📫 Reach me at: chandulawijesekara4@gmail.com| 😄 Pronouns: He | ⚡ Fun Fact: Coding Makes Wonders (CMW)!</p>
