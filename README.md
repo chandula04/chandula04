@@ -10,6 +10,10 @@
   <a href="https://github.com/chandula04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmYmVjYjZlY2YyYjBlY2YyZTE1YjIzYzZmYjU3ODFiYjkwY2M5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hY2bhk4/giphy.gif" width="100%" alt="Coding Animation">
+</div>
+
 ---
 
 ## 👨‍💻 About Me
