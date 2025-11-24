@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmYmVjYjZlY2YyYjBlY2YyZTE1YjIzYzZmYjU3ODFiYjkwY2M5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hY2bhk4/giphy.gif" width="100%" alt="Coding Animation">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/32095f3c242b9921509b53684dcd7656.gif" width="100%" alt="Coding Animation">
 </div>
 
 ---
