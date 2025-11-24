@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" alt="Waving Hand">
   
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there%2C+I'm+Chandula!+👋;Welcome+to+my+GitHub+Profile!+✨" alt="Typing SVG" />
-  </h1>
+  <h1>Hi there, I'm Chandula! 👋</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=600&height=60&lines=💻+Passionate+Full+Stack+Developer;⚛️+React+%26+JavaScript+Enthusiast;🚀+Building+Amazing+Web+Experiences;🌟+Open+Source+Contributor;🎯+Always+Learning+New+Things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=600&lines=💻+Passionate+Full+Stack+Developer;⚛️+React+%26+JavaScript+Enthusiast;🚀+Building+Amazing+Web+Experiences;🌟+Open+Source+Contributor;🎯+Always+Learning+New+Things" alt="Typing SVG">
   
   <br><br>
   
@@ -33,41 +31,26 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="right">
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35" height="35"> About Me
 
-```typescript
-const chandula = {
-    name: "Chandula Wijesekara",
-    role: "Full Stack Developer",
-    location: "🌏 Earth",
-    code: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        tools: ["Git", "VS Code", "Figma"],
-        learning: ["Node.js", "MongoDB", "Three.js"]
-    },
-    currentFocus: "Building amazing web experiences",
-    funFact: "Coding Makes Wonders (CMW)! ✨"
-};
-```
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
 
-<br>
+👋 Hi! I'm **Chandula Wijesekara**, a passionate developer diving deep into the world of web technologies.
 
-🎯 **Quick Facts:**
-- 🔭 Currently working on **React Projects**
-- 🌱 Learning **Full Stack Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Reach me: **chandulawijesekara4@gmail.com**
-- ⚡ Fun fact: **I debug with console.log() 😄**
+### 🎯 What I Do:
+- 💻 **Full Stack Development** with React & JavaScript
+- 🎨 **UI/UX Design** with modern frameworks
+- 🚀 Building **responsive** and **dynamic** web applications
+- 🌱 Constantly **learning** and **exploring** new technologies
+
+### 📫 Get In Touch:
+- 📧 Email: **chandulawijesekara4@gmail.com**
+- 🔗 LinkedIn: **[chandula-wijesekara](https://linkedin.com/in/chandula-wijesekara)**
+- ⚡ Fun fact: **Coding Makes Wonders (CMW)!**
 
 <br clear="right">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" height="35"> Tech Stack & Tools
 
@@ -111,18 +94,13 @@ const chandula = {
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandula04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandula04&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandula04&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandula04&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandula04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=chandula04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandula04&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chandula04&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Wakatime Stats" />
 
 <br>
 
@@ -140,21 +118,13 @@ const chandula = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" height="35"> Contribution Snake
+## 📈 Contribution Graph
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandula04/chandula04/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandula04/chandula04/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chandula04/chandula04/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandula04&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph">
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <br>
 
@@ -179,11 +149,10 @@ const chandula = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chandula04&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/chandula04?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/chandula04?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=💙+Made+with+Love+by+Chandula;⭐+Don't+forget+to+star+my+repos!;🚀+Happy+Coding!" alt="Footer Typing" />
+  <h3>💙 Made with Love by Chandula | ⭐ Don't forget to star my repos! | 🚀 Happy Coding!</h3>
 </div>
